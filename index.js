@@ -7,13 +7,13 @@ function takeANumber (line, name) {
 }
 
 function takeANumberAlt (line, ) {
-  
+
 }
 
 function nowServing (line) {
   if (!line.length) {
       // i.e. if line has 0 length
-      
+
     return "There is nobody waiting to be served!"
   }
 
