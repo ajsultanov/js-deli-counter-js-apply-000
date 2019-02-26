@@ -6,6 +6,10 @@ function takeANumber (line, name) {
     // template literal allows you to interpolate expressions
 }
 
+function takeANumberAlt (line, ) {
+  
+}
+
 function nowServing (line) {
   if (!line.length) {
       // i.e. if line has 0 length
