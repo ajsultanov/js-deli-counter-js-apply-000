@@ -7,6 +7,11 @@ function takeANumber (line, name) {
 }
 
 function takeANumberAlt (line, ) {
+  let x = 0
+
+  x++
+  line.push(x)
+  return x
 
 }
 
